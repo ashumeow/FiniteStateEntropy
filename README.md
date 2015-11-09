@@ -46,9 +46,6 @@ FSE is free of such limit, and its compression efficiency remains close to Shann
 However, this accuracy is not always necessary, and less compressible distributions show little difference with Huffman.
 On its side, Huff0 delivers in the form of a massive speed advantage.
 
-Branch Policy
+Blog post
 -------------------------
-External contributions are welcomed and encouraged.
-The "master" branch is only meant to host stable releases.
-The "dev" branch is the one where all contributions are merged. If you want to propose a patch, please commit into "dev" branch or dedicated feature branch. Direct commit to "master" are not permitted.
-
+<a href="http://fastcompression.blogspot.de/2013/12/finite-state-entropy-new-breed-of.html">Finite State Entropy - A new breed of entropy coder</a>
